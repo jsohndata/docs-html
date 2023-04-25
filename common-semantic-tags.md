@@ -16,6 +16,8 @@
 * `<time>`: Defines a date or time
 * `<address>`: Defines contact information for the author or owner of a document
 
+<br>
+
 ## Article
 ```
 <article>
