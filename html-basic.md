@@ -7,7 +7,6 @@
 
 ### Sample
 ```
-<main>
 <h1>Header 1</h1>
 <h2>Header2 Sub</h2>
 <h3>Header 3 Sub Sub</h3>
@@ -18,15 +17,14 @@
 
 ## 2. Structure: Self Closing Tag
 ```
-<tagSelfClosing>
+<tagSelfClosing />
 ````
 
 ### Sample
 ```
-<input/>: Input form
-<hr/>: Horizontal Rule
-<br/>: Break
-<img/>: Image
+<br />: Break
+<img />: Image
+<hr />: Horizontal Rule
 ```
 
 <br>
@@ -44,6 +42,8 @@
 
 `<p> </p>`: Paragraph
 
+`<br />`: Break tag
+
 `<strong> </strong>`: Strong (visually bold)
 
 `<em> </em>`: Emphasize (visually italic)
@@ -59,9 +59,6 @@
 `<a> </a>`: Anchor
 
 `<img>`: Image
-
-`<time>`: Time
-
 
 
 
@@ -86,24 +83,15 @@ Thesea are used to provide additional information or modify the behavior of an H
 
 <br>
 
-### 3.1.3 Time
-`datetime="2023-06-15T18:00"`: Date Time of the event
-
-
-<br>
-
 ## 4.0 HTML character entities
 They are used to represent special characters in HTML code. 
+
 `&lt;`: less-than symbol <
+
 `&gt;`: greater-than symbol >
+
 `&copy;`: copyright
 
-<br>
-
-## 5.0 Terminology and Accronym
-`API`: Application Programming Interface - is a set of rules and protocols that allows different software applications to communicate and interact with each other.
-`URL`: Uniform Resource Locator -  is a string of characters that provides the address or location of a resource on the internet. In simpler terms, a URL is like the "street address" of a webpage, file, or any other online resource.
-`HTML`: HyperText Markup Language, is the standard markup language used for creating and structuring web pages. It provides a set of predefined elements and tags that define the structure, content, and appearance of web documents.
 
 
 <br>

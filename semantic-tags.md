@@ -7,15 +7,6 @@
 * `<aside>`: Defines content that is tangentially related to the main content, such as a sidebar or a callout box
 * `<footer>`: Defines the footer section of a page or section
 
-* `<h1>` to `<h6>`: Defines heading levels 1 through 6
-* `<p>`: Defines a paragraph of text
-* `<ul>`: Defines an unordered list
-* `<ol>`: Defines an ordered list
-* `<li>`: Defines a list item
-* `<figure>`: Defines a figure or illustration, along with an optional caption using the <figcaption> element
-* `<time>`: Defines a date or time
-* `<address>`: Defines contact information for the author or owner of a document
-
 <br>
 
 ## < header >
@@ -70,13 +61,7 @@
 
 <br>
 
-## < figure >
-```
-<figure>
-  <img src="my-image.jpg" alt="A beautiful image" />
-  <figcaption>This is a beautiful image</figcaption>
-</figure>
-```    
+
 
 <br>
 
@@ -95,12 +80,7 @@
 
 <br>
 
-## < time >
-```
-<p>The event will take place on <time datetime="2023-06-15T18:00">June 15, 2023 at 6:00pm</time>.</p>
-```
 
-<br>
 
 ## < footer >
 ```
