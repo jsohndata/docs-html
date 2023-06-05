@@ -1,4 +1,4 @@
-# Week 01 - Day 01: HTML
+# Starter HTML
 
 ## 1. Structure: Open and Close Tag
 ```
