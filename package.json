@@ -2,7 +2,7 @@
   "name": "starter-html",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "./starter-html/index.html",
   "homepages": "https://jsongithub.github.io/docs-html/starter-html/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
