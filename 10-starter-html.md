@@ -5,7 +5,9 @@
 <tagOpen>Content </tagClose>
 ```
 
-### Sample
+<br>
+
+## Sample
 ```
 <h1>Header 1</h1>
 <h2>Header2 Sub</h2>
@@ -29,7 +31,7 @@
 
 <br>
 
-## 3. Tags Covered Today
+## 3. Fundemental
 `<head>`: Think of this as the "behind-the-scenes" section of your HTML document. It contains information about the document, such as the title, character encoding, and other metadata. This section is not directly visible on the webpage itself.
 
 `<body>`: Think of this as the main "stage" of your webpage. It contains all the visible content that users see when they visit your website, such as text, images, videos, links, and more. Basically, anything you want to display on your webpage goes inside the <body>.
@@ -91,15 +93,3 @@ They are used to represent special characters in HTML code.
 `&gt;`: greater-than symbol >
 
 `&copy;`: copyright
-
-
-
-<br>
-
-## 6.0 Bonus: Detail
-```
-<details>
-  <summary>Epcot Center</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-</details>
-```
